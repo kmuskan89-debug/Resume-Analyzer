@@ -118,12 +118,12 @@ scikit-learn>=1.3.0
 
 The analyzer recognizes skills across multiple categories:
 
-- **Programming Languages**: Python, Java, C++, JavaScript, TypeScript, Ruby, Go, Rust, etc.
-- **Web Development**: React, Angular, Vue, Node.js, Django, Flask, etc.
-- **Databases**: SQL, MySQL, PostgreSQL, MongoDB, Redis, etc.
-- **Data Science & ML**: TensorFlow, PyTorch, Pandas, NumPy, scikit-learn, etc.
-- **Cloud & DevOps**: AWS, Azure, GCP, Docker, Kubernetes, Jenkins, etc.
-- **Security**: Cybersecurity, Penetration Testing, OWASP, etc.
+- **Programming Languages**
+- **Web Development**
+- **Databases**
+- **Data Science & ML**
+- **Cloud & DevOps**
+- **Security**
 
 ### Customizing Skills List
 
